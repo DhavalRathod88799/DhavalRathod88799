@@ -66,16 +66,14 @@
 ---
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhavalrathod88799&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhavalrathod88799&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalrathod88799&layout=compact&theme=react)
 
-### 🌟 Additional Elements to Boost Engagement:
-- **Custom Footer or Banner**: Add a signature banner or unique footer for a personal touch.  
-- **Dynamic Commit Graph**: Consider adding:  
-  ```markdown
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhavalrathod88799&theme=react-dark)
+
+---
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhavalrathod88799&theme=react)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhavalrathod88799&repo=Mysql_datascience_project&theme=react)](https://github.com/dhavalrathod88799/Mysql_datascience_project)
